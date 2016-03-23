@@ -1,0 +1,27 @@
+{
+  "name": "moms-birthday",
+  "version": "0.0.1",
+  "description": "A little splash site for people to offer their best wishes for her on her birthday.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snyderdesign/Mom-s-Birthday.git"
+  },
+  "author": "Doug Wade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snyderdesign/Mom-s-Birthday/issues"
+  },
+  "homepage": "https://github.com/snyderdesign/Mom-s-Birthday#readme",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "koa": "^1.2.0",
+    "koa-bodyparser": "^2.0.1",
+    "koa-router": "^5.4.0",
+    "koa-static": "^2.0.0",
+    "paper": "^0.9.25"
+  }
+}
